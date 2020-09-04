@@ -16,7 +16,7 @@
     "nano-md5": "^1.0.3",
     "nodemailer": "^4.4.2",
     "npm": "^5.8.0",
-    "papaparse": "^4.1.2",
+    "papaparse": "^5.2.0",
     "path": "^0.12.7"
   },
   "devDependencies": {
